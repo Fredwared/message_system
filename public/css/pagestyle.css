@@ -1,0 +1,12 @@
+.paging{
+	font-weight:bold;
+	font-size:20px;
+}
+.first,.prev,.next,.end,.current,.num{
+	margin-left:10px;
+	
+}
+.num{
+	
+	text-decoration:none;
+}

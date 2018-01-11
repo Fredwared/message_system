@@ -1,0 +1,23 @@
+table#file {
+	text-align: center;
+	/*color: red;*/
+	margin: auto;
+	border: 1px solid;
+	border-collapse: collapse;
+	border-spacing: 50px;
+}
+
+#file th, #file td {
+	border: 1px solid;
+	padding: 20px;
+}
+
+/* 占位符 */
+div#placeholder {
+	height: 20px;
+}
+
+/* 操作按钮 */
+div#operate input {
+	margin-left: 20px;
+}
